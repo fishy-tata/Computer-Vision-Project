@@ -1,0 +1,5 @@
+Problem,Model,Accuracy,F1 Macro,F1 Weighted,AUC-ROC
+Binary,Baseline,0.98,0.9733,0.9801,0.9976
+Binary,Champion,0.9867,0.9821,0.9867,0.9998
+Category,Baseline,0.9733,0.9733,0.9731,0.9993
+Category,Champion,0.9733,0.9734,0.9734,0.9994
